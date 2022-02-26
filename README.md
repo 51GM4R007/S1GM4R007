@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing XD
 - 📫 How to reach me:t.me/s1gm4r007
 - ⚡ Fun fact:i don't know nothing :D
--->
 
 
 # 💻Tech Stack
