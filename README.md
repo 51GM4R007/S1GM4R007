@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=51GM4R007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=51GM4R007&icon=6&color=5)](https://visitcount.itsvg.in)
 
