@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:i don't know nothing :D
 -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+51GM4+R007's+profile!;thank+you+for+coming+my+page+XD)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+51GM4+R007's+profile!;thank+you+for+coming+my+page!)
 
 
 # 💻Tech Stack
